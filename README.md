@@ -12,12 +12,14 @@
 ### 활동
 
 - 2018년 3월 ~ 2019년 12월 세종대학교 군자방송국 SKBS 영상부 & 교육부장
-- 21년 9월 육군 전역 & 해외파병 7개월
 - 세종대학교 오픈소스 동아리 SOS (2023.01 ~ )
 - 현재 4학년 1학기에 재학중 [2024년 2월 졸업예정]
 - 전체 학점: 3.75 / 4.5 | 전공학점 3.67
 
 **기술**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+
 
 FrontEnd: React, Redux, Styled Components, React-Router
 
