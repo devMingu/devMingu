@@ -42,4 +42,6 @@ BackEnd
 #### [얼마에 팔면 좋을까 고민할땐 얼마면 돼?](https://puzzling-meadowlark-baf.notion.site/955f3e2a656844ebbeb48271ffd635bf)
 #### [가상현실에서 연습하는 CPR](https://puzzling-meadowlark-baf.notion.site/CPR-VR-797b5a8f281b4b86a1eabc2e2465c25a)
 
-### [노션 ](https://puzzling-meadowlark-baf.notion.site/c9acacd41f8b49f891c20982ac2d977a)
+### 노션 
+
+### [김민구의 노션 구경하기](https://puzzling-meadowlark-baf.notion.site/c9acacd41f8b49f891c20982ac2d977a)
