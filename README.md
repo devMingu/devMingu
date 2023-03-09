@@ -17,7 +17,7 @@
 - 현재 4학년 1학기에 재학중 [2024년 2월 졸업예정]
 - 전체 학점: 3.75 / 4.5 | 전공학점 3.67
 
-###기술
+**기술**
 
 FrontEnd: React, Redux, Styled Components, React-Router
 
