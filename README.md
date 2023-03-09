@@ -17,7 +17,7 @@
 - 현재 4학년 1학기에 재학중 [2024년 2월 졸업예정]
 - 전체 학점: 3.75 / 4.5 | 전공학점 3.67
 
-## 기술
+### 기술
 
 FrontEnd
 
@@ -27,7 +27,7 @@ BackEnd
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
 
-## 언어
+### 언어
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
@@ -35,5 +35,6 @@ BackEnd
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rooster100)](https://solved.ac/rooster100)
 
+### 프로젝트
 
 [개인 프로젝트](https://puzzling-meadowlark-baf.notion.site/c9acacd41f8b49f891c20982ac2d977a)
