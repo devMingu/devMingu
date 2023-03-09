@@ -35,4 +35,4 @@ BackEnd
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rooster100)](https://solved.ac/rooster100)
 
-[개인 프로젝트] (https://puzzling-meadowlark-baf.notion.site/c9acacd41f8b49f891c20982ac2d977a)
+[개인 프로젝트](https://puzzling-meadowlark-baf.notion.site/c9acacd41f8b49f891c20982ac2d977a)
