@@ -16,17 +16,19 @@
 - 현재 4학년 1학기에 재학중 [2024년 2월 졸업예정]
 - 전체 학점: 3.75 / 4.5 | 전공학점 3.67
 
-**기술**
+## 기술
 
-FrontEnd:
+FrontEnd
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
-BackEnd:
+BackEnd
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
 
-**언어**
+## 언어
 
-**JavaScript, Python, C**
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 [![devMingu GitHub stats](https://github-readme-stats.vercel.app/api?username=devMingu)](https://github.com/devMingu/github-readme-stats)
 [![Solved.ac
