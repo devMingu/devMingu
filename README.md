@@ -28,6 +28,8 @@ BackEnd: NodeJS, Express
 **JavaScript, Python, C**
 
 [![devMingu GitHub stats](https://github-readme-stats.vercel.app/api?username=devMingu)](https://github.com/devMingu/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=rooster100)](https://solved.ac/rooster100)
 
 [노션 페이지]
 https://puzzling-meadowlark-baf.notion.site/c9acacd41f8b49f891c20982ac2d977a
