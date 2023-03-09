@@ -37,7 +37,7 @@ BackEnd
 
 ### 프로젝트
 
-## [개인 여행지 추천 플랫폼 마고트립](https://puzzling-meadowlark-baf.notion.site/f5df09925243491a891713b44325af9f)
-## [장보러 가장](https://www.notion.so/73575a5b153b49d7b7e3b7f6f854ebf8?pvs=4)
-## [얼마에 팔면 좋을까 고민할땐 얼마면 돼?](https://puzzling-meadowlark-baf.notion.site/955f3e2a656844ebbeb48271ffd635bf)
-## [가상현실에서 연습하는 CPR](https://puzzling-meadowlark-baf.notion.site/CPR-VR-797b5a8f281b4b86a1eabc2e2465c25a)
+#### [개인 여행지 추천 플랫폼 마고트립](https://puzzling-meadowlark-baf.notion.site/f5df09925243491a891713b44325af9f)
+#### [장보러 가장](https://www.notion.so/73575a5b153b49d7b7e3b7f6f854ebf8?pvs=4)
+#### [얼마에 팔면 좋을까 고민할땐 얼마면 돼?](https://puzzling-meadowlark-baf.notion.site/955f3e2a656844ebbeb48271ffd635bf)
+#### [가상현실에서 연습하는 CPR](https://puzzling-meadowlark-baf.notion.site/CPR-VR-797b5a8f281b4b86a1eabc2e2465c25a)
