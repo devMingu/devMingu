@@ -13,6 +13,7 @@
 ### 활동
 
 - 2018년 3월 ~ 2019년 12월 세종대학교 군자방송국 SKBS 영상부 & 교육부장
+- 비전공자 대상으로 한 SW기초코딩 과목 영상촬영 & 영상편집
 - 세종대학교 오픈소스 동아리 SOS (2023.01 ~ )
 - 현재 4학년 1학기에 재학중 [2024년 2월 졸업예정]
 - 전체 학점: 3.75 / 4.5 | 전공학점 3.67
@@ -21,7 +22,7 @@
 
 FrontEnd
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
 BackEnd
 
