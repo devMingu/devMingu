@@ -30,14 +30,3 @@ BackEnd
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rooster100)](https://solved.ac/rooster100)
 
-### 프로젝트
-
-#### [회의실 예약 시스템](https://www.notion.so/7aa79d9d5c2d41088f62dbf611599428?pvs=4)
-#### [개인 여행지 추천 플랫폼 마고트립](https://puzzling-meadowlark-baf.notion.site/f5df09925243491a891713b44325af9f)
-#### [장보러 가장](https://www.notion.so/73575a5b153b49d7b7e3b7f6f854ebf8?pvs=4)
-#### [얼마에 팔면 좋을까 고민할땐 얼마면 돼?](https://puzzling-meadowlark-baf.notion.site/955f3e2a656844ebbeb48271ffd635bf)
-#### [가상현실에서 연습하는 CPR](https://puzzling-meadowlark-baf.notion.site/CPR-VR-797b5a8f281b4b86a1eabc2e2465c25a)
-
-### 노션 
-
-### [김민구의 노션 구경하기](https://puzzling-meadowlark-baf.notion.site/c9acacd41f8b49f891c20982ac2d977a)
