@@ -26,7 +26,6 @@ BackEnd
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 
-[![devMingu GitHub stats](https://github-readme-stats.vercel.app/api?username=devMingu)](https://github.com/devMingu/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rooster100)](https://solved.ac/rooster100)
 
